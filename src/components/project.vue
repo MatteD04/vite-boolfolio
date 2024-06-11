@@ -1,5 +1,11 @@
-<script></script>
+<script>
+export default {
+    name: 'project'
+}
+</script>
 
-<template></template>
+<template>
+    ciao
+</template>
 
 <style></style>
